@@ -16,8 +16,8 @@ As Earth surface scientists, a key objective for us is to push geospatial imager
 This is where s2m_engine comes into the picture! 
 
 Tentative roadmap:
--Script to read in GeoTiff, split into appropriate size files, and save coordinate info
--Script to read in segmentations, recombine them to make a large, mosaiced segmentation that is a GeoTIFF with the same size/shape as the original geospatial image
+- Script to read in GeoTiff, split into appropriate size files, and save coordinate info
+- Script to read in segmentations, recombine them to make a large, mosaiced segmentation that is a GeoTIFF with the same size/shape as the original geospatial image
 
 ...
 
