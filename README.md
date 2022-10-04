@@ -1,6 +1,6 @@
-## s2m_engine
+## Seg2Map Engine :motor_scooter: :dash:
 
-*Common codes for using Segmentation Zoo models for mapping applications on geospatial imagery*
+*Common codes for processing geospatial imagery within the Doodleverse*
 
 An idealized Doodleverse workflow could be thought of as :
 
