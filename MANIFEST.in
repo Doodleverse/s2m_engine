@@ -1,5 +1,5 @@
 include versioneer.py
-include doodleverse_utils/_version.py
+include s2m_engine/_version.py
 include README.rst
 include LICENSE
 include requirements.txt
